@@ -1,0 +1,13 @@
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\Bank\DIO_BANK\DIO_BANK\bin\Debug\netcoreapp3.1\DIO_BANK.exe
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\Bank\DIO_BANK\DIO_BANK\bin\Debug\netcoreapp3.1\DIO_BANK.deps.json
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\Bank\DIO_BANK\DIO_BANK\bin\Debug\netcoreapp3.1\DIO_BANK.runtimeconfig.json
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\Bank\DIO_BANK\DIO_BANK\bin\Debug\netcoreapp3.1\DIO_BANK.runtimeconfig.dev.json
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\Bank\DIO_BANK\DIO_BANK\bin\Debug\netcoreapp3.1\DIO_BANK.dll
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\Bank\DIO_BANK\DIO_BANK\bin\Debug\netcoreapp3.1\DIO_BANK.pdb
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\Bank\DIO_BANK\DIO_BANK\obj\Debug\netcoreapp3.1\DIO_BANK.csprojAssemblyReference.cache
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\Bank\DIO_BANK\DIO_BANK\obj\Debug\netcoreapp3.1\DIO_BANK.AssemblyInfoInputs.cache
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\Bank\DIO_BANK\DIO_BANK\obj\Debug\netcoreapp3.1\DIO_BANK.AssemblyInfo.cs
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\Bank\DIO_BANK\DIO_BANK\obj\Debug\netcoreapp3.1\DIO_BANK.csproj.CoreCompileInputs.cache
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\Bank\DIO_BANK\DIO_BANK\obj\Debug\netcoreapp3.1\DIO_BANK.dll
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\Bank\DIO_BANK\DIO_BANK\obj\Debug\netcoreapp3.1\DIO_BANK.pdb
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\Bank\DIO_BANK\DIO_BANK\obj\Debug\netcoreapp3.1\DIO_BANK.genruntimeconfig.cache
